@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# VignanEdu
-=======
-
 # VignanEdu
 
 ### File Structure
@@ -21,9 +17,6 @@
     |-----README.md
 
 
-### Clone locally
-
-for locally setup this project run this command in your terminal "git clone https://github.com/221fa04732/VignanEdu.git"
 
 
 ### Run locally
